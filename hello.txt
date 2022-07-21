@@ -2,3 +2,5 @@ First
 My word
 Hello, GIIIT!
 Hello, git rebase!
+Hello, git cherry-pick!
+Hello, squash!
